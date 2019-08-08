@@ -9,8 +9,8 @@ public class branch2 {
 		 int a=20;
 		int b=30;
 
-		 a=30;
-		 b=40;
+			 a=90;
+		 b=100;
 
 		System.out.print("hello");
 	System.out.print("hello");
