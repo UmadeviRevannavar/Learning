@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62785" started-at="2019-06-23T10:38:40Z" finished-at="2019-06-23T10:39:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62785" started-at="2019-06-23T10:38:40Z" finished-at="2019-06-23T10:39:43Z">
+      <class name="firsttestNgPackage.TestAnnotation2">
+        <test-method status="PASS" signature="Initialisation()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="Initialisation" is-config="true" duration-ms="42750" started-at="2019-06-23T11:38:40Z" finished-at="2019-06-23T11:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialisation -->
+        <test-method status="PASS" signature="CheckingHomePage()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="CheckingHomePage" is-config="true" duration-ms="218" started-at="2019-06-23T11:39:23Z" finished-at="2019-06-23T11:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingHomePage -->
+        <test-method status="PASS" signature="CheckingRegisterPage()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="CheckingRegisterPage" duration-ms="9707" started-at="2019-06-23T11:39:24Z" finished-at="2019-06-23T11:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingRegisterPage -->
+        <test-method status="PASS" signature="GotoHome()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="GotoHome" is-config="true" duration-ms="3497" started-at="2019-06-23T11:39:33Z" finished-at="2019-06-23T11:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoHome -->
+        <test-method status="PASS" signature="CheckingHomePage()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="CheckingHomePage" is-config="true" duration-ms="17" started-at="2019-06-23T11:39:37Z" finished-at="2019-06-23T11:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingHomePage -->
+        <test-method status="PASS" signature="CheckingSupportPage()[pri:1, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="CheckingSupportPage" duration-ms="4992" started-at="2019-06-23T11:39:37Z" finished-at="2019-06-23T11:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingSupportPage -->
+        <test-method status="PASS" signature="GotoHome()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="GotoHome" is-config="true" duration-ms="1194" started-at="2019-06-23T11:39:42Z" finished-at="2019-06-23T11:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoHome -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:firsttestNgPackage.TestAnnotation2@445b84c0]" name="CloseDriver" is-config="true" duration-ms="325" started-at="2019-06-23T11:39:43Z" finished-at="2019-06-23T11:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- firsttestNgPackage.TestAnnotation2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
